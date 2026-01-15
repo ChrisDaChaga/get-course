@@ -3,3 +3,4 @@ change rules
 add users
 manage users
 closing the connection with server
+to do database and memory stash
