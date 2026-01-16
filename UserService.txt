@@ -6,3 +6,6 @@ ahuuhasuhd
 qweqwe
  criar um avatar para o usuario
  login and logout
+
+ AI feature
+ 
